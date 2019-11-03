@@ -11,3 +11,5 @@ We need at list three files -
   by using the wp_query class to loop through posts/post types.
   
 - in the footer.php file we place html and php code for bottom part of the page and call the wp_footer.php function.
+
+
