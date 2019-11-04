@@ -12,7 +12,7 @@ We need at list three files -
   
 - in the footer.php file we place html and php code for bottom part of the page and call the wp_footer.php function.
 
-Example of a news site page
+Example of a news site page - folder "newspaper page"
 
 
 
