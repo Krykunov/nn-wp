@@ -64,12 +64,7 @@ get_header(); ?>
 
                         <?php get_template_part( "template-parts/rand-prokat" ); ?>
 
-
                         <div class="smax-rating"><?php if(function_exists('the_ratings')) { the_ratings(); } ?></div>
-
-                        <div class="others">
-
-                        </div>
 
                     </div><!-- .entry-content -->
 
